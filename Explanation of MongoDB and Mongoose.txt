@@ -1,0 +1,10 @@
+ Explanation of MongoDB and Mongoose 
+Q:What is MongoDB? 
+
+ANS:MongoDB ek open-source, NoSQL database hai jo data ko document format (JSON-like) me store karta hai. 
+Yeh flexible aur scalable hota hai, jise modern web applications me use kiya jata hai jaha fast & dynamic data handling zaroori ho. 
+
+Q:What is Mongoose? 
+
+ANS:Mongoose ek Node.js ODM (Object Data Modeling) library hai jo MongoDB ke saath kaam karne ke liye use hoti hai. 
+Yeh schemas, models, aur data validation ke features provide karta hai, jisse MongoDB ke saath kaam karna structured aur easy ho jaata hai.
